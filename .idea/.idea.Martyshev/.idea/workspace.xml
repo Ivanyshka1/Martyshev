@@ -4,23 +4,64 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f34e0711-1c5c-4843-9399-aa80473c1405" name="Changes" comment="" />
+    <list default="true" id="f34e0711-1c5c-4843-9399-aa80473c1405" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Martyshev.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/Martyshev.sln.DotSettings.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudentLib.Tests/StudentTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/StudentLib.Tests/StudentTests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudentLib.Tests/bin/Debug/net9.0/StudentLib.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/StudentLib.Tests/bin/Debug/net9.0/StudentLib.Tests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudentLib.Tests/bin/Debug/net9.0/StudentLib.Tests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/StudentLib.Tests/bin/Debug/net9.0/StudentLib.Tests.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudentLib.Tests/bin/Debug/net9.0/StudentLib.dll" beforeDir="false" afterPath="$PROJECT_DIR$/StudentLib.Tests/bin/Debug/net9.0/StudentLib.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudentLib.Tests/bin/Debug/net9.0/StudentLib.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/StudentLib.Tests/bin/Debug/net9.0/StudentLib.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudentLib.Tests/obj/Debug/net9.0/StudentLib.Tests.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/StudentLib.Tests/obj/Debug/net9.0/StudentLib.Tests.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudentLib.Tests/obj/Debug/net9.0/StudentLib.Tests.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/StudentLib.Tests/obj/Debug/net9.0/StudentLib.Tests.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudentLib.Tests/obj/Debug/net9.0/StudentLib.Tests.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/StudentLib.Tests/obj/Debug/net9.0/StudentLib.Tests.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudentLib.Tests/obj/Debug/net9.0/StudentLib.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/StudentLib.Tests/obj/Debug/net9.0/StudentLib.Tests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudentLib.Tests/obj/Debug/net9.0/StudentLib.Tests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/StudentLib.Tests/obj/Debug/net9.0/StudentLib.Tests.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudentLib.Tests/obj/Debug/net9.0/ref/StudentLib.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/StudentLib.Tests/obj/Debug/net9.0/ref/StudentLib.Tests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudentLib.Tests/obj/Debug/net9.0/refint/StudentLib.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/StudentLib.Tests/obj/Debug/net9.0/refint/StudentLib.Tests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudentLib/bin/Debug/net9.0/StudentLib.dll" beforeDir="false" afterPath="$PROJECT_DIR$/StudentLib/bin/Debug/net9.0/StudentLib.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudentLib/bin/Debug/net9.0/StudentLib.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/StudentLib/bin/Debug/net9.0/StudentLib.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudentLib/obj/Debug/net9.0/StudentLib.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/StudentLib/obj/Debug/net9.0/StudentLib.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudentLib/obj/Debug/net9.0/StudentLib.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/StudentLib/obj/Debug/net9.0/StudentLib.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudentLib/obj/Debug/net9.0/StudentLib.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/StudentLib/obj/Debug/net9.0/StudentLib.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudentLib/obj/Debug/net9.0/StudentLib.dll" beforeDir="false" afterPath="$PROJECT_DIR$/StudentLib/obj/Debug/net9.0/StudentLib.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudentLib/obj/Debug/net9.0/StudentLib.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/StudentLib/obj/Debug/net9.0/StudentLib.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudentLib/obj/Debug/net9.0/ref/StudentLib.dll" beforeDir="false" afterPath="$PROJECT_DIR$/StudentLib/obj/Debug/net9.0/ref/StudentLib.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudentLib/obj/Debug/net9.0/refint/StudentLib.dll" beforeDir="false" afterPath="$PROJECT_DIR$/StudentLib/obj/Debug/net9.0/refint/StudentLib.dll" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Ivanyshka1"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Ivanyshka1/Martyshev.git",
+    "accountId": "630ead55-c27e-48a8-8cd7-74be97c199ce"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 4
 }]]></component>
   <component name="ProjectId" id="2yaApOhFnoN8AkOzODgASFvfeOm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "6474cd0e-c190-47be-94ac-fff4dd5d65ea.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -38,7 +79,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1750062494090</updated>
-      <workItem from="1750062495200" duration="1274000" />
+      <workItem from="1750062495200" duration="2924000" />
     </task>
     <servers />
   </component>
