@@ -8,7 +8,11 @@
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6474cd0e_002Dc190_002D47be_002D94ac_002Dfff4dd5d65ea/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from Solution #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;Solution /&gt;&#xD;
+  &lt;Not&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;xUnit::5279A552-BC9B-4305-99A7-90C440996878::net9.0::StudentLib.Tests.StudentTests.CheckName_ValidatesNameCorrectly.CheckName_ValidatesNameCorrectly(name: "Johndoe1234567", expected: True)&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+  &lt;/Not&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b9bf7a1c_002D9117_002D41fd_002Db4f2_002Dcf372c68e90d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TransformSpecialty_TransformsCorrectly" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;

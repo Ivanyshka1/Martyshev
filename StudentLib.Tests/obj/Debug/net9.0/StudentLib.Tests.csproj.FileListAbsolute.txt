@@ -96,3 +96,4 @@ C:\Users\Ivan\RiderProjects\Martyshev\StudentLib.Tests\obj\Debug\net9.0\refint\S
 C:\Users\Ivan\RiderProjects\Martyshev\StudentLib.Tests\obj\Debug\net9.0\StudentLib.Tests.pdb
 C:\Users\Ivan\RiderProjects\Martyshev\StudentLib.Tests\obj\Debug\net9.0\StudentLib.Tests.genruntimeconfig.cache
 C:\Users\Ivan\RiderProjects\Martyshev\StudentLib.Tests\obj\Debug\net9.0\ref\StudentLib.Tests.dll
+C:\Users\Ivan\RiderProjects\Martyshev\StudentLib.Tests\obj\Debug\net9.0\StudentLib.Tests.sourcelink.json

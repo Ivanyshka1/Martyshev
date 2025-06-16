@@ -9,3 +9,4 @@ C:\Users\Ivan\RiderProjects\Martyshev\StudentLib\obj\Debug\net9.0\StudentLib.dll
 C:\Users\Ivan\RiderProjects\Martyshev\StudentLib\obj\Debug\net9.0\refint\StudentLib.dll
 C:\Users\Ivan\RiderProjects\Martyshev\StudentLib\obj\Debug\net9.0\StudentLib.pdb
 C:\Users\Ivan\RiderProjects\Martyshev\StudentLib\obj\Debug\net9.0\ref\StudentLib.dll
+C:\Users\Ivan\RiderProjects\Martyshev\StudentLib\obj\Debug\net9.0\StudentLib.sourcelink.json
